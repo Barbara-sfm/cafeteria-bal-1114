@@ -1,6 +1,8 @@
 PRD
 
 Integrantes: Aynara Ceron, Laurys Gallardo, Barbara Fernandez
+
+# En una lista colocas el repo de cada integrante
 Curso: 1114
 
 
